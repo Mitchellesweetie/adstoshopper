@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 60px;
+    box-shadow:#000;
+    margin-bottom: 1px;
+    background: white;
+}
+.nav-logo,.nav-profile{
+    height: 150px;
+    width: 150px;
+    
+}
